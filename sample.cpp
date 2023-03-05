@@ -4,7 +4,7 @@ typedef long long int ll;
 int main()
 {
     
-            cout<<"NO"<<endl;
+            cout<<"NoooooooO"<<endl;
             
         
         
